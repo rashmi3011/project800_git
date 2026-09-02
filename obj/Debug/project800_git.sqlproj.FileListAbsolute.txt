@@ -1,0 +1,5 @@
+c:\LabFiles\project800_git\bin\Debug\project800_git.dacpac
+c:\LabFiles\project800_git\obj\Debug\Model.xml
+c:\LabFiles\project800_git\obj\Debug\refactor.xml
+c:\LabFiles\project800_git\obj\Debug\postdeploy.sql
+c:\LabFiles\project800_git\obj\Debug\predeploy.sql
